@@ -12,6 +12,11 @@
         This is the project for my funky components. This will build both the core and the examples
     </description>
 
+    <modules>
+
+        <module>../jsf-gravatar-core</module>
+        <module>../jsf-gravatar-examples</module>
+    </modules>
 
     <repositories>
         <repository>
