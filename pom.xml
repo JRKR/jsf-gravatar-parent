@@ -8,7 +8,11 @@
     <name>JRKR JSF Components - Parent Pom</name>
     <version>1.0</version>
 
- 
+    <modules>
+        <module>../jsf-gravatar-core</module>
+        <module>../jsf-gravatar-examples</module>
+    </modules>
+
     <repositories>
         <repository>
             <id>Myfaces repository</id>
