@@ -13,11 +13,5 @@
         <module>../jsf-gravatar-examples</module>
     </modules>
 
-    <repositories>
-        <repository>
-            <id>Myfaces repository</id>
-            <url>http://myfaces.zones.apache.org/dist/maven-repository</url>
-        </repository>
-    </repositories>
 
 </project>
