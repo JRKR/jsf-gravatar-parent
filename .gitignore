@@ -1,3 +1,4 @@
 .idea/
 jsf-gravatar-parent.iml
 src/main/resources/rebel.xml
+target/classes/rebel.xml
